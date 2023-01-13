@@ -1,1 +1,42 @@
 # EFI_PH315-52-748U_MONTEREY
+
+OC 0.8.8
+
+
+![Screen Shot 2023-01-13 at 15 22 20](https://user-images.githubusercontent.com/122637624/212392259-77ca1d26-5fe6-4d73-abea-ea63f16efdb1.png)
+
+
+#Configuration
+
+CPU : Intel Core i7-9750H @ 2.6Ghz - 4.5Ghz
+
+GPU : Intel UHD Graphics 630
+
+RAM : 32GB @ 2666Mhz
+
+STORAGE : 500GB (for MacOS)
+
+OS : MacOS Monterey
+
+
+
+#WORKING:
+
+-> USB 2.0/3.0/ TYPE-C
+-> BACKLIGHT
+-> BATTERY PERCENTAGE
+-> KEYBOARD
+-> TRACKPAD
+-> ETHERNET
+-> WI-FI 
+-> SOUND (AUDIO)
+-> P2 OUT SOUND AND MICROPHONE OK!
+-> INTEL GRAPHICS 630 ACCELERATION OK!
+-> KEYBOARD LIGHT
+-> BLUETOOTH
+
+
+#NOT WORKING:
+
+-> HDMI (GTX1660)
+-> WEBCAM
